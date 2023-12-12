@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 :root {
     --text-color: blue;
     --span: purple;
@@ -162,7 +164,7 @@
 }
 
 .single-services h2 {
-    font-family: bebas neue;
+   font-family: 'Bebas Neue', sans-serif;
 }
 
 .single-services p {
@@ -186,7 +188,7 @@
 }
 
 .single-box h2 {
-    font-family: bebas neue;
+    font-family: 'Bebas Neue', sans-serif;
     color: var(--text-color);
 }
 
@@ -215,7 +217,7 @@
 
 .single-client h2 {
     color: var(--text-color);
-    font-family: bebas neue;
+    font-family: 'Bebas Neue', sans-serif;
 }
 
 .single-client h5 {
@@ -238,12 +240,12 @@
 }
 
 .left-content h3 {
-    font-family: bebas neue;
+    font-family: 'Bebas Neue', sans-serif;
     margin-bottom: 20px;
 }
 
 label {
-    font-family: bebas neue;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 20px;
     margin: 10px 0;
 }
